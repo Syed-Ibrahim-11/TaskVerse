@@ -4,7 +4,7 @@ Private, offline productivity tools for Android — document, data, image and PD
 
 ## Download
 
-**Latest version: 1.0.1** — [Download TaskVerse-1.0.1.apk](https://github.com/Syed-Ibrahim-11/TaskVerse/releases/download/v1.0.1/TaskVerse-1.0.1.apk)
+**Latest version: 1.0.2** — [Download TaskVerse-1.0.2.apk](https://github.com/Syed-Ibrahim-11/TaskVerse/releases/download/v1.0.2/TaskVerse-1.0.2.apk)
 
 - Android 6.0 or newer
 - 3.5 MB, universal build
@@ -26,5 +26,5 @@ TaskVerse processes everything on-device and keeps no analytics or tracking. Fil
 
 ## Verification
 
-- APK SHA-256: `acceb9eccfd4b5c1addebe85f1ea303c3be197034f0ec55a5ceae5fc79b09b2f`
+- APK SHA-256: `851d4b40a12eb4a07bc4e631b3b6cbd9e455e6491ddba69ad36c5ca63a088aa7`
 - Signing certificate SHA-256: `3c09b5e297032646120bf0a08f05c7cacf4b7f680eabe0609a226e6c82fc2377`
